@@ -19,7 +19,7 @@ The dashboard provides insights into customer retention, revenue, and churn patt
 - Month-to-month contracts have the highest churn rate
 - Fiber optic users show higher churn behavior
 - Long-term customers are more stable and loyal
-
+- Churn decreases as customer tenure increases
 ---
 
 ## 🛠 Tools Used
