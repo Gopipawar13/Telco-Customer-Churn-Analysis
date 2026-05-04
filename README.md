@@ -25,8 +25,17 @@ The dashboard provides insights into customer retention, revenue, and churn patt
 ## 🛠 Tools Used
 - Power BI
 - Excel
-- Data Cleaning & Visualization
 
+## 🧠 Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+- DAX Functions
+
+## 💡 Recommendations
+- Offer discounts for long-term contracts
+- Improve customer support for fiber users
+- Target high-risk customers with retention campaigns
 ---
 
 ## 📷 Dashboard Preview
